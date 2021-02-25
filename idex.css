@@ -1,0 +1,103 @@
+
+.header {
+    background: black;
+    color: white;
+    padding: 30px;
+    text-transform: uppercase;
+    text-align:center;
+    word-spacing: 10px;
+    font-weight: bold;
+
+}
+.lite {
+    margin-left:200px;
+}
+.header a:hover {
+    cursor: pointer;
+    border-bottom:2px solid white;
+    color:red;
+}
+h1 {
+    font-size:30px;
+    margin-left:13%;
+}
+.top {
+    margin-left:13%;
+    font-size:15px;
+}
+.info {
+    margin-left:13%;
+    font-size:40px;
+    font-weight:bold;
+}
+.open {
+    margin-left:13%;
+}
+
+.super {
+    margin-left:50px;
+    padding:30px;
+}
+.name {
+    font-size:20px;
+    font-weight: bold;
+}
+table {
+    width:100%;
+    background:black;
+    color: black;
+    border-spacing:5px;
+}
+.tabel {
+    padding: 10px;
+}
+th {
+    padding:5px;
+    background: white;
+}
+.dark {
+    background: black;
+    color: white;
+    text-align: center ;
+    padding: 10px;
+    width: 400px;
+    margin-left: 80px;
+}
+.dark a:hover {
+   background-color: yellow;
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+    margin-left:7%;
+}
+.flex-inside {
+    margin-right: 30px;
+}
+body {
+    font-family: "Courier New";
+    margin: 0%;
+}
+.flexx {
+    display: flex;
+    background-color: black;
+    padding: 30px;
+}
+.foot {
+    color: white;
+    margin-left: 140px;
+}
+.foo {
+    text-decoration:underline;
+    color: white;
+    cursor: pointer;
+}
+.fooc {
+    color: white;
+    background-color: red;
+}
+img {
+    width: 30px;
+    height: 30px;
+}

@@ -7,16 +7,19 @@
     text-align:center;
     word-spacing: 10px;
     font-weight: bold;
-
+    -webkit-user-select: none;
 }
+
 .lite {
     margin-left:200px;
 }
+
 .header a:hover {
     cursor: pointer;
     border-bottom:2px solid white;
     color:red;
 }
+
 h1 {
     font-size:30px;
     margin-left:13%;
@@ -29,9 +32,18 @@ h1 {
     margin-left:13%;
     font-size:40px;
     font-weight:bold;
+    padding-bottom: 10px;
 }
 .open {
     margin-left:13%;
+}
+
+.ref {
+    padding-top: 30px;
+}
+
+.lets {
+    padding-top: 10px;
 }
 
 .super {
